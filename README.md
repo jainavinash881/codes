@@ -1,1 +1,3 @@
-# codes_in_c_and_c-
+# codes_in_c_and_c++
+
+### some codes practised
