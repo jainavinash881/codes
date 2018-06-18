@@ -1,3 +1,3 @@
-# codes_in_c_and_c++
+# codes_in_c,c++ and java
 
-### some codes practised
+### some codes practised by me
